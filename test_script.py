@@ -15,7 +15,5 @@ def test_matmul():
 
     result = A @ B
 
-    assert False
-
     print(result)
 
